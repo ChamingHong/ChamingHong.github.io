@@ -4,7 +4,7 @@ title: 'OpenCV读取图像的坐标系问题'
 date: 2024-08-05
 author: Mingo
 cover: ''
-tags: python
+tags: Learning
 ---
 
 > **本文目录：**

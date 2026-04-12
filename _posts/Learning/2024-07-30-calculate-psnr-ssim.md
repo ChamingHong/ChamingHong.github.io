@@ -4,7 +4,7 @@ title: '峰值信噪比 (PSNR) 与结构相似性 (SSIM) 的计算'
 date: 2024-07-30
 author: Mingo
 cover: 'https://pic.imgdb.cn/item/66a8e435d9c307b7e9370a88.png'
-tags: 图像超分
+tags: Learning
 ---
 
 >**本文目录：**

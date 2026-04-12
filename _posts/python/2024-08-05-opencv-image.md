@@ -2,7 +2,7 @@
 layout: post
 title: 'OpenCV读取图像的坐标系问题'
 date: 2024-08-05
-author: 洪茬铭
+author: Mingo
 cover: ''
 tags: python
 ---

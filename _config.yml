@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '洪茬铭的个人网站'
-description: '孩儿立志出乡关，学不成名誓不还'
-keyword: '深度学习，图像超分'
+title: 'Mingo的个人网站'
+description: '我要稳稳的幸福'
+keyword: '生活 学习'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -24,8 +24,8 @@ footer:
   since: 2024
 
 # Author 配置博主信息
-author: '洪茬铭'
-nickname: 'cok1e'
+author: 'Mingo'
+nickname: 'Mingo'
 bio: '定格每一瞬间的回忆~'
 avatar: 'https://pic1.imgdb.cn/item/67af430cd0e0a243d4ff4be2.png'
 

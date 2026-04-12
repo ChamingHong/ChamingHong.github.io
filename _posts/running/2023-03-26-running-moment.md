@@ -2,7 +2,7 @@
 layout: post
 title: 'Running Time!'
 date: 2023-03-26
-author: 洪茬铭
+author: Mingo
 cover: 'https://pic.imgdb.cn/item/66c1d162d9c307b7e914d6bd.jpg'
 tags: 跑步
 ---
